@@ -1624,6 +1624,11 @@ PrefabInstance:
       propertyPath: muzzleFlash
       value: 
       objectReference: {fileID: 1447400187}
+    - target: {fileID: 1978390687, guid: ada2587319194f542957a8c2ae277cb9, type: 3}
+      propertyPath: hitEffectVFX
+      value: 
+      objectReference: {fileID: 4848657024738024964, guid: 69942bcef6a97504da832012d608f05e,
+        type: 3}
     - target: {fileID: 2337074158996965286, guid: ada2587319194f542957a8c2ae277cb9,
         type: 3}
       propertyPath: m_LocalPosition.x
